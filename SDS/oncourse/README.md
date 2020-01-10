@@ -38,7 +38,10 @@
 
 
 [1일차 알고리즘 기초]:./SDS%201%EC%9D%BC%EC%B0%A8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88.md "1일차 알고리즘 기초 문제집 정리"
-[1920 수 찾기]:https://www.acmicpc.net/problem/1920	""백준 1920 수 찾기""
+[1920 수 찾기]:https://www.acmicpc.net/problem/1920	"백준 1920 수 찾기"
+
+
+
 [9663 N-Queen]: https://www.acmicpc.net/problem/9663 "백준 9663 N-Queen"
 [2580 스도쿠]: https://www.acmicpc.net/problem/2580 "백준 2580 스도쿠"
 [1339 단어 수학]: https://www.acmicpc.net/problem/1339 "백준 1339 단어 수학"
