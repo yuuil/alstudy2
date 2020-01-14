@@ -37,7 +37,24 @@
 
 ---
 
-### 3일차 자료구조
+### [3일차 자료구조][3일차 자료구조]
+
+1. 트리
+   - [1991 트리 순회][1991 트리 순회]
+2. 세그먼트 트리
+   - [2042 구간 합 구하기][2042 구간 합 구하기]
+   - [2243 사탕상자][2243 사탕상자]
+   - [1275 커피숍 2][1275 커피숍 2]
+   - [2094 강수량][2094 강수량]
+3. 유니온 파인드
+   - [6416 트리인가?][6416 트리인가?]
+4. 힙
+   - [1655 가운데를 말해요][1655 가운데를 말해요]
+   - [1202 보석도둑][1202 보석도둑]
+5. 이분 탐색
+   - [3020 개똥벌레][3020 개똥벌레]
+6. 맵
+   - [4358 생태학][4358 생태학]
 
 ---
 
@@ -51,21 +68,30 @@
 
 
 
-[1일차 알고리즘 기초]:./SDS%201%EC%9D%BC%EC%B0%A8%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88.md "1일차 알고리즘 기초 문제집 정리"
-[2일차 시간복잡도]:./SDS%202일차%20시간복잡도.md "2일차 시간복잡도 문제집 정리"
+[1일차 알고리즘 기초]:./SDS%201일차%20알고리즘%20기초.md "1일차 알고리즘 기초 문제집 정리"
 [1920 수 찾기]:https://www.acmicpc.net/problem/1920	"백준 1920 수 찾기"
 
 [9663 N-Queen]: https://www.acmicpc.net/problem/9663 "백준 9663 N-Queen"
 [2580 스도쿠]: https://www.acmicpc.net/problem/2580 "백준 2580 스도쿠"
 [1339 단어 수학]: https://www.acmicpc.net/problem/1339 "백준 1339 단어 수학"
-
+[2일차 시간복잡도]:./SDS%202일차%20시간복잡도.md "2일차 시간복잡도 문제집 정리"
 [2003 수들의 합 2]: https://www.acmicpc.net/problem/2003 "백준 2003 수들의 합 2"
 [2805 나무 자르기]:https://www.acmicpc.net/problem/2805 "백준 2805 나무 자르기"
 [2748 피보나치 수 2]:https://www.acmicpc.net/problem/2748 "백준2748 피보나치 수 2"
 [1806 부분합]: https://www.acmicpc.net/problem/1806	"백준 1806 부분합"
 [2096 내려가기]:https://www.acmicpc.net/problem/2096 "백준 2096 내려가기"
 [2143 두 배열의 합]: https://www.acmicpc.net/problem/2143 "백준 2143 두 배열의 합"
-[1072 게임]: https://www.acmicpc.net/problem/1072 "BOJ 1072 게임 소스 코드"
-[7453 합이 0인 네 정수]: https://www.acmicpc.net/problem/7453 "BOJ 7453 합이 0인 네 정수 소스 코드"
-[11003 최솟값 찾기]: https://www.acmicpc.net/problem/11003 "BOJ 11003 최솟값 찾기 소스 코드"
-
+[1072 게임]: https://www.acmicpc.net/problem/1072 "백준1072 게임"
+[7453 합이 0인 네 정수]: https://www.acmicpc.net/problem/7453 "백준 7453 합이 0인 네 정수"
+[11003 최솟값 찾기]: https://www.acmicpc.net/problem/11003 "백준11003 최솟값 찾기"
+[3일차 자료구조]: ./SDS%203일차%20자료구조.md	"3일차 자료구조 문제집 정리"
+[1991 트리 순회]: https://www.acmicpc.net/problem/1991	"백준 1991 트리 순회"
+[2042 구간 합 구하기]: https://www.acmicpc.net/problem/2042	"백준 2042 구간 합 구하기 소스 코드"
+[6416 트리인가?]: https://www.acmicpc.net/problem/6416	"백준 6416 트리인가? 소스 코드"
+[4358 생태학]: https://www.acmicpc.net/problem/4358	"백준 4358 생태학 소스 코드"
+[1655 가운데를 말해요]: https://www.acmicpc.net/problem/1655	"백준 1655 가운데를 말해요"
+[1202 보석 도둑]: https://www.acmicpc.net/problem/1202	"백준 1202 보석 도둑"
+[2243 사탕상자]: https://www.acmicpc.net/problem/2243	"백준 2243 사탕상자"
+[3020 개똥벌레]: https://www.acmicpc.net/problem/3020	"백준 3020 개똥벌레"
+[1275 커피숍 2]: https://www.acmicpc.net/problem/1275	"백준 1275 커피숍 2"
+[2094 강수량]: https://www.acmicpc.net/problem/2094	"백준 2094 강수량"
