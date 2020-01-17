@@ -16,6 +16,18 @@
    - [9663 N-Queen][9663 N-Queen]
    - [2580 스도쿠][2580 스도쿠]
    - [1339 단어 수학][1339 단어 수학]
+3. 시뮬레이션
+   - [3425 고스택][3425 고스택]
+4. 비트 마스킹
+   - [1062 가르침][1062 가르침]
+   - [1759 암호 만들기][1759 암호 만들기]
+5. BFS
+   - [3055 탈출][3055 탈출]
+   - [1039 교환][1039 교환] 
+6. DP
+   - [1103 게임][1103 게임]
+7. 기타
+   - [1713 후보 추천하기][1713 후보 추천하기]
 
 ---
 
@@ -69,9 +81,16 @@
 
 
 [1일차 알고리즘 기초]:./SDS%201일차%20알고리즘%20기초.md "1일차 알고리즘 기초 문제집 정리"
+[3425 고스택]: https://www.acmicpc.net/problem/3425 "백준 3425 고스택"
+[3055 탈출]: https://www.acmicpc.net/problem/3055 "백준 3055 탈출"
+[1062 가르침]: https://www.acmicpc.net/problem/1062 "백준 1062 가르침"
+[1713 후보 추천하기]: https://www.acmicpc.net/problem/1713 "백준 1713 후보 추천하기"
+[1103 게임]: https://www.acmicpc.net/problem/1103 "백준 1103 게임"
+[1039 교환]: https://www.acmicpc.net/problem/1039 "백준BOJ 1039 교환"
 [1920 수 찾기]:https://www.acmicpc.net/problem/1920	"백준 1920 수 찾기"
 
 [9663 N-Queen]: https://www.acmicpc.net/problem/9663 "백준 9663 N-Queen"
+[1759 암호 만들기]: https://www.acmicpc.net/problem/1759 "백준 1759 암호 만들기"
 [2580 스도쿠]: https://www.acmicpc.net/problem/2580 "백준 2580 스도쿠"
 [1339 단어 수학]: https://www.acmicpc.net/problem/1339 "백준 1339 단어 수학"
 [2일차 시간복잡도]:./SDS%202일차%20시간복잡도.md "2일차 시간복잡도 문제집 정리"
