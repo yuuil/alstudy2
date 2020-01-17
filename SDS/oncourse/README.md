@@ -70,7 +70,24 @@
 
 ---
 
-### 4일차 정수론
+### [4일차 정수론][4일차 정수론]
+
+1. 유클리드 호제법
+   - [1735 분수 합][1735 분수 합]
+   - [14476 최대공약수 하나 빼기][14476 최대공약수 하나 빼기]
+   - [5376 소수를 분수로][5376 소수를 분수로]
+2. 확장된 유클리드 호제법
+   - [3955 캔디 분배][3955 캔디 분배]
+3. 에라토스테네스의 체
+   - [2960 에라토스테네스의 체][2960 에라토스테네스의 체]
+   - [6588 골드바흐의 추측][6588 골드바흐의 추측]
+   - [1644 소수의 연속합][1644 소수의 연속합]
+   - [16653 소인수분해][16653 소인수분해]
+   - [2904 수학은 너무 쉬워][2904 수학은 너무 쉬워]
+4. 기타
+   - [1837 암호제작][1837 암호제작]
+   - [4375 1][4375 1]
+   - [10610 30][10610 30]
 
 ---
 
@@ -93,6 +110,9 @@
 [1759 암호 만들기]: https://www.acmicpc.net/problem/1759 "백준 1759 암호 만들기"
 [2580 스도쿠]: https://www.acmicpc.net/problem/2580 "백준 2580 스도쿠"
 [1339 단어 수학]: https://www.acmicpc.net/problem/1339 "백준 1339 단어 수학"
+
+
+
 [2일차 시간복잡도]:./SDS%202일차%20시간복잡도.md "2일차 시간복잡도 문제집 정리"
 [2003 수들의 합 2]: https://www.acmicpc.net/problem/2003 "백준 2003 수들의 합 2"
 [2805 나무 자르기]:https://www.acmicpc.net/problem/2805 "백준 2805 나무 자르기"
@@ -103,6 +123,9 @@
 [1072 게임]: https://www.acmicpc.net/problem/1072 "백준1072 게임"
 [7453 합이 0인 네 정수]: https://www.acmicpc.net/problem/7453 "백준 7453 합이 0인 네 정수"
 [11003 최솟값 찾기]: https://www.acmicpc.net/problem/11003 "백준11003 최솟값 찾기"
+
+
+
 [3일차 자료구조]: ./SDS%203일차%20자료구조.md	"3일차 자료구조 문제집 정리"
 [1991 트리 순회]: https://www.acmicpc.net/problem/1991	"백준 1991 트리 순회"
 [2042 구간 합 구하기]: https://www.acmicpc.net/problem/2042	"백준 2042 구간 합 구하기 소스 코드"
@@ -114,3 +137,21 @@
 [3020 개똥벌레]: https://www.acmicpc.net/problem/3020	"백준 3020 개똥벌레"
 [1275 커피숍 2]: https://www.acmicpc.net/problem/1275	"백준 1275 커피숍 2"
 [2094 강수량]: https://www.acmicpc.net/problem/2094	"백준 2094 강수량"
+
+
+
+[4일차 정수론]: ./SDS%204일차%20정수론.md "4일차 정수론 문제집 정리"
+[1735 분수 합]: https://www.acmicpc.net/problem/1735 "백준 1735 분수 합"
+[14476 최대공약수 하나 빼기]: https://www.acmicpc.net/problem/14476 "백준 14476 최대공약수 하나 빼기"
+[3955 캔디 분배]: https://www.acmicpc.net/problem/3955 "백준 3955 캔디 분배"
+[2960 에라토스테네스의 체]: https://www.acmicpc.net/problem/2960 "백준 2960 에라토스테네스의 체"
+[6588 골드바흐의 추측]: https://www.acmicpc.net/problem/6588 "백준 6588 골드바흐의 추측"
+[1644 소수의 연속합]: https://www.acmicpc.net/problem/1644 "백준 1644 소수의 연속합"
+[16653 소인수분해]: https://www.acmicpc.net/problem/16653 "백준 16653 소인수분해"
+[1837 암호제작]: https://www.acmicpc.net/problem/1837 "백준1837 암호제작"
+[2824 최대공약수]:https://www.acmicpc.net/problem/2824 "백준 2824 최대공약수"
+[2725 보이는 점의 개수]: https://www.acmicpc.net/problem/2725 "백준 2725 보이는 점의 개수"
+[4375 1]:https://www.acmicpc.net/problem/4375 "백준 4375 1"
+[10610 30]: https://www.acmicpc.net/problem/10610	"백준 10610 30"
+[2904 수학은 너무 쉬워]: https://www.acmicpc.net/problem/2904 "백준 2904 수학은 너무 쉬워"
+[5376 소수를 분수로]: https://www.acmicpc.net/problem/5376 "백준 5376 소수를 분수로"
