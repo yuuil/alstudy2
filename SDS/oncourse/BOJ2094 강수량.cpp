@@ -65,11 +65,8 @@ int main() {
         continue;
       }
     } else if(!ye && !xe) {
-      int zm = query(tree, 1, 0, n-1, 0, n-1);
-      if(zm != MAX) {
-        cout<<"maybe\n";
-        continue;
-      }
+      cout<<"maybe\n";
+      continue;
     } else {
       int zm = query(tree, 1, 0, n-1, yIdx+1, xIdx-1);
       if(r[yIdx] >= r[xIdx] && zm < r[xIdx]) {
