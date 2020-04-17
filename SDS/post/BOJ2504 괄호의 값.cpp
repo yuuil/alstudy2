@@ -2,8 +2,7 @@
 #include <stack>
 using namespace std;
 bool err;
-long long ans;
-int temp = 1;
+int ans,temp = 1;
 string input;
 stack<char> s;
 int main() {
