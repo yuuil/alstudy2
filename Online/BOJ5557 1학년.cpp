@@ -1,3 +1,9 @@
+/*
+  dp[i][j] => i번째 수까지 사용해 j를 만드는 경우의 수
+  i번째 수까지 사용해 j를 만드는 경우는
+  1) i-1번째 수까지 사용해 j+num[i]을 만드는 경우에서 num[i]를 빼는 경우
+  2) i-1번째 수까지 사용해 j-num[i]을 만드는 경우에서 num[i]를 더하는 경우
+*/
 #include <iostream>
 using namespace std;
 int N, num[101];
